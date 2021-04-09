@@ -1,0 +1,111 @@
+@media screen and (max-width: 1100px) {
+    .sale-txt{
+        margin-bottom: 50px;
+    }
+    .sale-columbs {
+        max-width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .column{
+        margin-bottom: 50px;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .sale-container{
+        /* margin: 0 auto; */
+    }
+    .sale-txt{
+        margin-bottom: 50px;
+        min-width: 100%;
+    }
+    .sale-columbs {
+        max-width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+    .column{
+        margin-bottom: 50px;
+    }
+}
+@media screen and (max-width: 900px) {
+    .sale-txt{
+        margin-bottom: 50px;
+    }
+    .sale-columbs {
+        max-width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+    .column{
+        margin-bottom: 50px;
+    }
+}
+@media screen and (max-width: 800px) {
+    .sale-txt{
+        margin-bottom: 50px;
+    }
+    .sale-columbs {
+        max-width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+    .column{
+        margin-bottom: 50px;
+    }
+}
+@media screen and (max-width: 700px) {
+    .sale-txt{
+        margin-bottom: 50px;
+    }
+    .sale-columbs {
+        max-width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+    .column{
+        margin-bottom: 50px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .sale-txt{
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .sale-columbs {
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .column{
+        margin-bottom: 50px;
+    }
+}
+@media screen and (max-width: 500px) {
+    .sale-txt{
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .sale-columbs {
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .column{
+        margin-bottom: 50px;
+    }
+}
+@media screen and (max-width: 400px) {
+    .sale-txt{
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .sale-columbs {
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .column{
+        margin-bottom: 50px;
+    }
+}
